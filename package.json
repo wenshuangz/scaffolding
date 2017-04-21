@@ -1,5 +1,5 @@
 {
-	"name":"scaffolding",
+	"name":"scaffoldingz",
 	"version":"0.0.1",
 	"bin": {
 	    "scaffolding": "bin/scaffolding"
